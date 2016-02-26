@@ -1,4 +1,4 @@
-=== Hello Dolly ===
+=== Hello Kanye ===
 Contributors: natedaswas
 Requires at least: 3.0
 Stable tag: 1.6
